@@ -11,8 +11,8 @@ Need to deploy the end results
 Milestones:
 
 Milestone	Duration 
-Kick off and Business Objective discussion	1 day
-Data set Details	1 Week 
-EDA	2 week 
-Model Building & Evaluation	1 Week – 1  week
-Deployment &Final presentation	1 Week
+Kick off and Business Objective discussion	1 day ,
+Data set Details	1 Week ,
+EDA	2 week , 
+Model Building & Evaluation	1 Week – 1  week ,
+Deployment &Final presentation	1 Week , 
